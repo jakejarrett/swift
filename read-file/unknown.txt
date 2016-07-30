@@ -1,0 +1,1 @@
+Swift doesn't know about this text until it reads the file.
