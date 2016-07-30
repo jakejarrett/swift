@@ -7,8 +7,9 @@ class HelloWorld {
 
     /**
      * Returns a greeting
+     *
      * @param  {String} username
-     * @return {String}             Returns a greeting with the users name.
+     * @return {String} Returns a greeting with the users name.
      */
     func greetUser(username: String) -> String {
         let greeting = "Hello " + username + "!";
